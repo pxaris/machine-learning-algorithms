@@ -1,0 +1,2 @@
+
+Accuracy of Logistic Regression is: 96.86%

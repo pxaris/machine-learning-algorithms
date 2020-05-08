@@ -1,0 +1,9 @@
+Duration of training for degrees=2: 0.01421976089477539 secs.
+Duration of training for degrees=3: 0.023894309997558594 secs.
+Duration of training for degrees=4: 0.027991533279418945 secs.
+Duration of training for degrees=5: 0.022922515869140625 secs.
+Duration of training for degrees=8: 0.04778790473937988 secs.
+Duration of training for degrees=10: 0.11290931701660156 secs.
+Duration of training for degrees=12: 0.541942834854126 secs.
+Duration of training for degrees=15: 30.435432195663452 secs.
+Duration of training for degrees=15: 29.57964777946472 secs.

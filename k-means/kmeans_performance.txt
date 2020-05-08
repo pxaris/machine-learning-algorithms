@@ -1,0 +1,7 @@
+
+Accuracy of K-means is: 89.33%
+
+K-means confusion matrix:
+[[50  0  0]
+ [ 0 48  2]
+ [ 0 14 36]]

@@ -1,0 +1,12 @@
+
+Logistic regression on initial data
+Total errors on the test dataset: 1
+
+Logistic regression on data after PCA-3 components
+Total errors on the test dataset: 2
+
+Logistic regression on data after PCA-2 components
+Total errors on the test dataset: 3
+
+Logistic regression on data after PCA-1 component
+Total errors on the test dataset: 9
